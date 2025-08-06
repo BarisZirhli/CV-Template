@@ -45,7 +45,7 @@ a:hover {
 .header h1 {
   font-size: 24px;
   color: #2c3e50;
-  margin-bottom: 0px;
+
 }
 
 .header h3 {
@@ -66,7 +66,8 @@ a:hover {
 
 /* Section Styles */
 .section {
-  margin-bottom: 10px;
+margin-bottom: 5px;
+
 }
 
 .section-title {
@@ -133,10 +134,12 @@ a:hover {
 }
 
 .summary p {
-  padding: 15px 25px;
-  font-size: 17px;
-  line-height: 1.5;
-  margin: 10px 0;
+font-size: 15px;
+line-height: 1.6;
+margin: 15px 0;
+width: 750px;
+padding: 5px 0px;
+
 }
 .item-content ul {
   padding-left: 20px;
